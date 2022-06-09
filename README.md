@@ -1,10 +1,10 @@
-# Cryptoverse - Explore the World of Cryptocurrency
+# HoarderWallet - Your Gateway to the Multi-chain World of Cryptocurrency & Web3
 
-![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
+![Hoarderwallet](https://i.ibb.co/8gh5Jc8/image.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
+This is a code repository for the corresponding decentralized application. 
 
-In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
 
-By the end of this video, you will become the master of working with APIs.
+
+
